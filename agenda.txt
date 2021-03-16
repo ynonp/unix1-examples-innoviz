@@ -1,0 +1,42 @@
+# Unix1  Course Agenda
+
+## Day 1
+
+- Intro to Linux
+- Desktop and Terminal
+- Shell
+- Man Pages
+- Linux Filesystem
+
+## Day 2
+- Wildcards
+- Mount Points
+- Permissions
+- Links
+
+## Day 3
+- I/O Redirections
+- Pipes & Filters
+- find
+
+## Day 4
+- Unix Power Tools (grep, awk)
+- Shell Scripts
+- Quotes
+- Aliases
+- Environment Variables
+- Startup Files
+
+## Day 5
+- Processes
+- Jobs
+- Installation
+- Software Management
+- Networking
+
+## Day 6
+- systemd
+- Monitoring
+- syslog
+- journalctl
+- Troubleshooting
